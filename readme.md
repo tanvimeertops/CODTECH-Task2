@@ -19,3 +19,6 @@ Key Activity:
 Technologies Used:
 1. Selenium
 2. webdriver
+
+Output Screenshot
+![Screenshot (20)](https://github.com/user-attachments/assets/8ccb1164-cc98-4fc8-9268-dc0d51bda0f7)
